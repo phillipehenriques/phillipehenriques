@@ -3,11 +3,13 @@
 <br>
 > Front-end Developer - UI/UX Student & Colorblind Digital Artist
 
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=phillipehenriques&show_icons=true&theme=dracula&hide=stars,issues)-
+
 ###### Fique a vontade para consultar cada repositório.
 > ###### Este repositório é muito ativo, commits toda semana!
 
 <p align="left">  
 
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 </p>
