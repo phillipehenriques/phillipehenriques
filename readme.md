@@ -1,5 +1,10 @@
-# Bem vindo!
-## Meu nome é Phillipe Henriques
+<h2 align="left">
+    <abc>
+        Hello There! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+        <br> Meu nome é Phillipe Henriques <br>
+    </abc>
+</h2>
+
 <br>
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=phillipehenriques&show_icons=true&theme=dracula&hide=stars,issues)-
@@ -8,6 +13,18 @@
 
 ###### Fique a vontade para consultar cada repositório.
 > ###### Este repositório é muito ativo, commits toda semana!
+
+## Tecnologias que eu uso
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 <p align="left">  
 
