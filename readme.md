@@ -1,9 +1,10 @@
 # Bem vindo!
 ## Meu nome é Phillipe Henriques
 <br>
-> Front-end Developer - UI/UX Student & Colorblind Digital Artist
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=phillipehenriques&show_icons=true&theme=dracula&hide=stars,issues)-
+
+> Front-end Developer - UI/UX Student & Colorblind Digital Artist
 
 ###### Fique a vontade para consultar cada repositório.
 > ###### Este repositório é muito ativo, commits toda semana!
