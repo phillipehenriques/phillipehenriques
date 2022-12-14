@@ -18,9 +18,9 @@
 > Front-end Developer - UI/UX Student & Colorblind Digital Artist
 
 ###### Fique a vontade para consultar cada repositório.
-> ###### Este repositório é muito ativo, commits toda semana!
+> ###### Atenção: Este perfil é muito ativo, commits toda semana!
 
-## Tecnologias que eu uso
+## Tecnologias que eu utilizo
 
 
 <p align="left">
