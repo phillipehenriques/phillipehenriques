@@ -15,7 +15,9 @@
 
 </p>
 
-> Programador Front-end (React / Angular) | Estudante de UX/UI daltônico, e criador de conteúdo sobre Tecnologia e Acessibilidade.
+> Programador Front-end (React / Angular)
+> Estudante de UX/UI daltônico, e criador 
+> de conteúdo sobre Tecnologia e Acessibilidade.
 
 ###### Fique a vontade para consultar cada repositório.
 > ###### Atenção: Este perfil é muito ativo, commits toda semana!
